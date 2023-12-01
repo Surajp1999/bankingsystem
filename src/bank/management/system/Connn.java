@@ -1,6 +1,6 @@
 package bank.management.system;
 
-import java.sql.*;
+import java.Mysql.*;
 
 public class Connn {
     Connection connection;
